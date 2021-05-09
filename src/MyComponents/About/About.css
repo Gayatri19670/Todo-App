@@ -1,0 +1,47 @@
+.about{
+    margin: 50px 100px;
+}
+
+.aboutMe{
+    margin-left: 50px;
+}
+
+
+.myPic{
+    background-image: url(./img/myPic.jpg);
+    background-size: 350px 420px;
+    width: 350px;
+    height: 420px;
+    box-shadow: rgb(15, 15, 15) 0px 50px 100px -20px,
+    rgb(19, 19, 18) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.925) 0px -2px 6px 0px inset;
+    border-radius: 10px;
+    
+}
+
+.social-icons{
+    width: 330px;
+   
+    
+}
+
+.social-icons a {
+    text-decoration: none;
+    display: inline-flex;
+    width: 50px;
+    height: 50px;
+    margin: .5px;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    transition: 0.4s;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
+    box-shadow: 4px 0px 12px rgb(10, 0, 0) inset;
+}
+  
+.social-icons a:hover {
+    background: #2c3e50;
+    color: white;
+}
+  
