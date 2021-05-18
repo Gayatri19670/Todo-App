@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with HTML & CSS.this project using basics of React.js and this project is very helpful for the React.js beginners.
+In this user can easily make Todos List. 
+[Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
